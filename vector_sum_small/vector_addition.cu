@@ -14,11 +14,8 @@
 #include <math.h>
 #include <float.h>
 
-// includes, project
-#include <cutil.h>
-
 // includes, kernels
-#include <vector_addition_kernel.cu>
+#include "vector_addition_kernel.cu"
 
 ////////////////////////////////////////////////////////////////////////////////
 // declaration, forward
