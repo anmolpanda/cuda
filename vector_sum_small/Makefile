@@ -1,5 +1,8 @@
 # A simple CUDA makefile
 #
+# Author: Naga Kandasamy
+# Date: 9/16/2015
+#
 # CUDA depends on two things:
 #  1) The CUDA nvcc compiler, which needs to be on your path,
 #	or called directly, which we do here
